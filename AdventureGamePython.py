@@ -738,4 +738,6 @@ def FinalRoom ():
     print(blue)
     scrollTxt("The End")
 
+
+#Let's start this rolling coaster!
 Garden()
