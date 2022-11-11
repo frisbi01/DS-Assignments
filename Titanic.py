@@ -11,6 +11,10 @@ from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score
 import streamlit as st
 
+# We are gonna make a webapp that predicts if you would survive the Titanic
+# with a hypothetical profile
+
+
 # Reading the csv files
 # Will change the directory before sending for evaluation
 df_train = pd.read_csv('train.csv')
